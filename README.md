@@ -1,6 +1,6 @@
 # AI vs Human Text Detector
 
-A fine-tuned DistilBERT model that classifies whether a text is human-written or AI-generated. The project includes a Flask web interface and SHAP-based explainability for transparent predictions.
+A fine-tuned DistilBERT model that classifies whether a text is human-written or AI-generated. The project includes a Flask web interface and SHAP-based explainability for accurate transparent predictions.
 
 ## Tech Stack
 
